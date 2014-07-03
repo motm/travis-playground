@@ -7,6 +7,7 @@
     "url": "git://github.com/marcelduran/travis-playground.git"
   },
   "dependencies": {
+    "request-progress" : "0.3.1",
     "webpagetest": "~0.2.4",
     "phantomjs": "~1.9.7-12"
   },
